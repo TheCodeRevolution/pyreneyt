@@ -14,7 +14,8 @@
   <h2 align="center" >「tech stack」</h2>
   </div>
 <p align="center">
-  <img src="https://img.shields.io/badge/cal-230175C2?color=orange&style=for-the-badge&logo=cal&logoColor=white" alt=""/>
+  <img src="https://img.shields.io/badge/c/al-230175C2?color=orange&style=for-the-badge&logo=cal&logoColor=white" alt=""/>
+  <img src="https://img.shields.io/badge/a/l-230175C2?color=orange&style=for-the-badge&logo=cal&logoColor=white" alt=""/>
   <img src="https://img.shields.io/badge/Java-ED8B00?color=orange&style=for-the-badge&logo=java&logoColor=white" alt=""/>
   <img src="https://img.shields.io/badge/JavaScript-323330?color=orange&style=for-the-badge&logo=javascript&logoColor=white" alt=""/>
   <img src="https://img.shields.io/badge/html5-%23E34F26.svg?color=orange&style=for-the-badge&logo=html5&logoColor=white" alt=""/>
