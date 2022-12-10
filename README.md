@@ -1,14 +1,17 @@
-<div align="center" style="text-align: center;">
-  <h1>Pyrene/Mike</h1>
+### Hi I am Mike👋
+- 🔭 I’m a developer for a lot of programming languages
+- 💬 Ask me about anything
+- 📫 How to reach me: Mike.#1194
 
-</div>
-<br>
-<h3 align="center">
+---
+<div align="center">
   <img src="https://img.shields.io/github/followers/pyreneyt?color=orange&style=for-the-badge" alt=""/>
   <img src="https://komarev.com/ghpvc/?username=pyreneyt&color=orange&style=for-the-badge" alt=""/> 
-</h3>
-<br>
-<h2 align="center" >「tech stack」</h2>
+</div>
+
+<div>
+  <h2 align="center" >「tech stack」</h2>
+  </div>
 <p align="center">
   <img src="https://img.shields.io/badge/cal-230175C2?color=orange&style=for-the-badge&logo=cal&logoColor=white" alt=""/>
   <img src="https://img.shields.io/badge/Java-ED8B00?color=orange&style=for-the-badge&logo=java&logoColor=white" alt=""/>
@@ -16,7 +19,6 @@
   <img src="https://img.shields.io/badge/html5-%23E34F26.svg?color=orange&style=for-the-badge&logo=html5&logoColor=white" alt=""/>
   <img src="https://img.shields.io/badge/css3-%231572B6.svg?color=orange&style=for-the-badge&logo=css3&logoColor=white" alt=""/>
 </p>
-<br>
 <h2 align="center" >「skills」</h2>
 <p align="center">
   <img src="https://img.shields.io/badge/MariaDB-003545?color=orange&style=for-the-badge&logo=mariadb&logoColor=white" alt=""/>
