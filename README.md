@@ -28,7 +28,6 @@
   <img src="https://img.shields.io/badge/mongodb-003545?color=orange&style=for-the-badge&logo=mongodb&logoColor=white" alt=""/>
   <img src="https://img.shields.io/badge/redis-003545?color=orange&style=for-the-badge&logo=redis&logoColor=white" alt=""/>
   <img src="https://img.shields.io/badge/React_Native-20232A?color=orange&style=for-the-badge&logo=react&logoColor=white" alt=""/>
-  <img src="https://img.shields.io/badge/vitejs3-000000.svg?color=orange&style=for-the-badge&logo=vite&logoColor=white" alt=""/>
   <img src="https://img.shields.io/badge/laravel-000000.svg?color=orange&style=for-the-badge&logo=laravel&logoColor=white" alt=""/>
 </p>
 <br>
