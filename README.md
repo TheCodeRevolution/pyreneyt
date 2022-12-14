@@ -21,6 +21,7 @@
   <img src="https://img.shields.io/badge/CSharp-323330?color=orange&style=for-the-badge&logo=csharp&logoColor=white" alt=""/>
   <img src="https://img.shields.io/badge/html5-%23E34F26.svg?color=orange&style=for-the-badge&logo=html5&logoColor=white" alt=""/>
   <img src="https://img.shields.io/badge/css3-%231572B6.svg?color=orange&style=for-the-badge&logo=css3&logoColor=white" alt=""/>
+  <img src="https://img.shields.io/badge/PHP-%231572B6.svg?color=orange&style=for-the-badge&logo=php&logoColor=white" alt=""/>
 </p>
 <h2 align="center" >「skills」</h2>
 <p align="center">
